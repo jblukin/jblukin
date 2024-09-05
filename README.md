@@ -38,7 +38,7 @@ A graphics project using basic techniques primarily coded using HLSL and the GPU
 
 # 🧩 Other Projects and Demos
 
-### [Billionaire (Game Development Final)](https://github.com/jblukin/B453-LectureProject)
+### [Billionaire](https://github.com/jblukin/B453-LectureProject)
 A tower defense game developed to improve skills for common game development topics
 
 - Singletons
@@ -59,20 +59,23 @@ A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <
 
 ##### Made in Unity - Written in C#
 
-### [Erebus' Elegy (Game Production Final)](https://github.com/jblukin/ErebusElegy)
+### [Erebus' Elegy](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
 [!<img width=640px height=360px src="" />]()
 
 ##### Made in Unity - Written in C#
 
-### [Poison Profiteer (Game Technology Final)](https://github.com/jblukin/C220-Final-Project-Poison)
+### [Poison Profiteer](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
 [!<img width=640px height=360px src="" />]()
 
 ##### Made in Godot 3 - Written in GDScript
 
-<!--
-**jblukin/jblukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
+A small match-3 game focusing on techniques to add "juice" to games <br />
+
+[!<img width=640px height=360px src="" />]()
+
+##### Made in Godot 3 - Written in GDScript
