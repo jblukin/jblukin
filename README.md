@@ -12,7 +12,7 @@ Hi, I'm Jonah Lukin. A game developer/software engineer passionate about all thi
 
 # 🌟 Major Projects
 
-### Conquering Ciros - [AVAILABLE ON STEAM NOW!!!](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
+### Conquering Ciros | [AVAILABLE ON STEAM NOW!!!](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
 A Vampire Survivors-like game with a strategic twist. Use the power of crystals to reclaim your fallen kingdom!
 
 - Lead Engineer/Programmer
@@ -73,7 +73,7 @@ A small idle game about selling types of poisons <br />
 
 ##### Made in Godot 3 - Written in GDScript
 
-### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3) https://github.com/jblukin/05-FPS-Maze
+### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
 A small match-3 game focusing on techniques to add "juice" to games <br />
 
 [!<img width=640px height=360px src="" />]()
