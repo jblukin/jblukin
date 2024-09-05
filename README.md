@@ -19,7 +19,7 @@ A Vampire Survivors-like game with a strategic twist. Use the power of crystals 
 - Systems/UI Engineer/Programmer
 - Lead UI/UX Designer
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />]()
 
 ##### Made in Unity - Written in C#
 
@@ -48,28 +48,28 @@ A tower defense game developed to improve skills for common game development top
 - Raycasts
 - and more...
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />]()
 
 ##### Made in Unity - Written in C#
 
 ### [Port-a-Project](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />]()
 
 ##### Made in Unity - Written in C#
 
 ### [Erebus' Elegy (Game Production Final)](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />]()
 
 ##### Made in Unity - Written in C#
 
 ### [Poison Profiteer (Game Technology Final)](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />]()
 
 ##### Made in Godot 3 - Written in GDScript
 
