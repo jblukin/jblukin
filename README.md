@@ -73,8 +73,15 @@ A small idle game about selling types of poisons <br />
 
 ##### Made in Godot 3 - Written in GDScript
 
-### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
+### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3) https://github.com/jblukin/05-FPS-Maze
 A small match-3 game focusing on techniques to add "juice" to games <br />
+
+[!<img width=640px height=360px src="" />]()
+
+##### Made in Godot 3 - Written in GDScript
+
+### [FPS Maze](https://github.com/jblukin/05-FPS-Maze)
+A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
 [!<img width=640px height=360px src="" />]()
 
