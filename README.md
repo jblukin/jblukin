@@ -31,7 +31,7 @@ A graphics project using basic techniques primarily coded using HLSL and the GPU
 - Vertex Displacement
 - Texture Mapping
 
-<img width=640px height=360px src="" /> 
+[!<img width=640px height=360px src="" />](https://github.com/jblukin/Computer-Graphics-Final)
 
 ##### Made in Unity - Written in HLSL (and C#)
 
