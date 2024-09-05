@@ -2,13 +2,13 @@
 
 Hi, I'm Jonah Lukin. A game developer/software engineer passionate about all things in game dev.
 
-## LINKS
+## Links
 
-🔥 Conquering Ciros (Lead Engineer/Programmer): https://store.steampowered.com/app/2818530/Conquering_Ciros/
+🔥 [Conquering Ciros (Lead Engineer/Programmer)](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
 
-🔥 Portfolio/Resume: https://www.jonahlukin.com
+🔥 [Portfolio/Resume](https://www.jonahlukin.com)
 
-🔥 LinkedIn: https://www.linkedin.com/in/jonah-lukin/ 
+🔥 [LinkedIn](https://www.linkedin.com/in/jonah-lukin/) 
 
 
 
