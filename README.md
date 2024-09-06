@@ -76,7 +76,7 @@ A small idle game about selling types of poisons <br />
 ### [*Juicy Match-3*](https://github.com/jblukin/03-Juicy-Match-3)
 A small match-3 game focusing on techniques to add "juice" to games <br />
 
-<a href="https://github.com/jblukin/03-Juicy-Match-3"> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/03-Juicy-Match-3"> <img width=360px height=640px src="images/JuicyMatch3.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
