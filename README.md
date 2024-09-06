@@ -4,7 +4,7 @@ Hi, I'm Jonah Lukin. A game developer/software engineer passionate about all thi
 
 # 🔑 Links
 
-[<img align=left width=30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png">Conquering Ciros (Lead Engineer/Programmer)](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
+[<img align=left width=30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png">Conquering Ciros (Lead Engineer/Programmer + Systems/UI Engineer/Programmer)](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
 
 [<img align=left width=30px src="https://images.emojiterra.com/microsoft/fluent-emoji/512px/1f525_flat.png">Portfolio/Resume](https://www.jonahlukin.com)
 
