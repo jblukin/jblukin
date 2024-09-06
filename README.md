@@ -83,7 +83,7 @@ A small match-3 game focusing on techniques to add "juice" to games <br />
 ### [*FPS Maze*](https://github.com/jblukin/05-FPS-Maze)
 A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
-<a href="https://github.com/jblukin/05-FPS-Maze"> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/05-FPS-Maze"> <img width=640px height=360px src="images/FPSMaze.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
