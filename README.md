@@ -24,7 +24,7 @@ A Vampire Survivors-like game with a strategic twist. Use the power of crystals 
 ###### Made in Unity - Written in C#
 
 ### [Computer Graphics Final](https://github.com/jblukin/Computer-Graphics-Final)
-A graphics project using basic techniques primarily coded using HLSL and the GPU
+A graphics rendering project using basic techniques primarily coded using HLSL and the GPU
 
 - Fragment + Vertex Shaders
 - Ambient + Diffuse + Specular Lighting
