@@ -76,7 +76,7 @@ A small idle game about selling types of poisons <br />
 ### [*2D Space Shooter*](https://github.com/jblukin/02-Space-Shooter)
 A 2D Asteroids-like demo game <br />
 
-<a href="https://github.com/jblukin/02-Space-Shooter"> <img width=640px height=360px src="GIF SOURCE PATH" /> </a>
+<a href="https://github.com/jblukin/02-Space-Shooter"> <img width=640px height=360px src="images/2DSpaceShooter.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
