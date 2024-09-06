@@ -74,21 +74,21 @@ A small idle game about selling types of poisons <br />
 ###### Made in Godot 3 - Written in GDScript
 
 ### [*2D Space Shooter*](https://github.com/jblukin/02-Space-Shooter)
-A 2D Asteroids-like demo game <br />
+A simple 2D Asteroids-like demo game <br />
 
 <a href="https://github.com/jblukin/02-Space-Shooter"> <img width=640px height=360px src="images/2DSpaceShooter.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [*Juicy Match-3*](https://github.com/jblukin/03-Juicy-Match-3)
-A small match-3 game focusing on techniques to add "juice" to games <br />
+A small match-3 game focusing on techniques to add "juice" like screen shake to games <br />
 
 <a href="https://github.com/jblukin/03-Juicy-Match-3"> <img width=360px height=640px src="images/JuicyMatch3.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [*FPS Maze*](https://github.com/jblukin/05-FPS-Maze)
-A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
+A small fps maze demo with obstacles, enemies, and weapons <br />
 
 <a href="https://github.com/jblukin/05-FPS-Maze"> <img width=640px height=360px src="images/FPSMaze.gif" /> </a>
 
