@@ -94,13 +94,6 @@ A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
 ###### Made in Godot 3 - Written in GDScript
 
-### [*3D RPG*](https://github.com/jblukin/06-3D-RPG)
-A small 3D RPG demo game with NPCs, dialogue, and more <br />
-
-<a href="https://github.com/jblukin/06-3D-RPG"> <img width=640px height=360px src="GIF SOURCE PATH" /> </a>
-
-###### Made in Godot 3 - Written in GDScript
-
 <!-- PROJECT TEMPLATE -->
 <!--
 
