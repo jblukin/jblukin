@@ -69,7 +69,7 @@ A prototype of a 3D horde survival game where strategic movement is key to victo
 ### [*Poison Profiteer*](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
-<a href="https://github.com/jblukin/C220-Final-Project-Poison"> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/C220-Final-Project-Poison"> <img width=640px height=360px src="images/PoisonProfiteer.gif" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
