@@ -55,34 +55,34 @@ A tower defense game developed to improve skills for common game development top
 ### [Port-a-Project](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
-<a href=""> <img width=640px height=360px src="images/Duality_Port_Opt.gif" /> </a>
+<a href="https://github.com/jblukin/Port-a-Project-B453/tree/main"> <img width=640px height=360px src="images/Duality_Port_Opt.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
 ### [Erebus' Elegy](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
-<a href=""> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/ErebusElegy"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Unity - Written in C#
 
 ### [Poison Profiteer](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
-<a href=""> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/C220-Final-Project-Poison"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
 A small match-3 game focusing on techniques to add "juice" to games <br />
 
-<a href=""> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/03-Juicy-Match-3"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [FPS Maze](https://github.com/jblukin/05-FPS-Maze)
 A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
-<a href=""> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/05-FPS-Maze"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
