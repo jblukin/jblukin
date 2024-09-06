@@ -16,7 +16,7 @@ Hi, I'm Jonah Lukin. A game developer/software engineer passionate about all thi
 A Vampire Survivors-like game with a strategic twist. Use the power of crystals to reclaim your fallen kingdom!
 
 - Lead Engineer/Programmer
-- Systems/UI Engineer/Programmer
+- Systems + UI Engineer/Programmer
 - Lead UI/UX Designer
 
 <a href="https://store.steampowered.com/app/2818530/Conquering_Ciros/"> <img width=640px height=360px src="images/Ciros_Gameplay_PrimaryClipOptimized.gif" /> </a>
