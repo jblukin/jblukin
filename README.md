@@ -19,7 +19,7 @@ A Vampire Survivors-like game with a strategic twist. Use the power of crystals 
 - Systems/UI Engineer/Programmer
 - Lead UI/UX Designer
 
-<a href="https://store.steampowered.com/app/2818530/Conquering_Ciros/" target="blank" rel="Conquering Ciros Gameplay"> <img width=640px height=360px src="images/Ciros_Gameplay_PrimaryClipOptimized.gif" /> </a>
+<a href="https://store.steampowered.com/app/2818530/Conquering_Ciros/"> <img width=640px height=360px src="images/Ciros_Gameplay_PrimaryClipOptimized.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
@@ -31,7 +31,7 @@ A graphics project using basic techniques primarily coded using HLSL and the GPU
 - Vertex Displacement
 - Texture Mapping
 
-[!<img width=640px height=360px src="" />](https://github.com/jblukin/Computer-Graphics-Final)
+<a href="https://github.com/jblukin/Computer-Graphics-Final"> <img width=640px height=360px src="images/GraphicsFinal_PortfolioDisplay.gif" /> </a>
 
 ###### Made in Unity - Written in HLSL (and C#)
 
@@ -46,43 +46,43 @@ A tower defense game developed to improve skills for common game development top
 - Events
 - Collisions
 - Raycasts
-- and more...
+- etc...
 
-[!<img width=640px height=360px src="" />]()
+<a href="https://github.com/jblukin/B453-LectureProject"> <img width=640px height=360px src="images/Billionaire_MainGif.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
 ### [Port-a-Project](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
-[!<img width=640px height=360px src="" />]()
+<a href=""> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Unity - Written in C#
 
 ### [Erebus' Elegy](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
-[!<img width=640px height=360px src="" />]()
+<a href=""> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Unity - Written in C#
 
 ### [Poison Profiteer](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
-[!<img width=640px height=360px src="" />]()
+<a href=""> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
 A small match-3 game focusing on techniques to add "juice" to games <br />
 
-[!<img width=640px height=360px src="" />]()
+<a href=""> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
 ### [FPS Maze](https://github.com/jblukin/05-FPS-Maze)
 A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
-[!<img width=640px height=360px src="" />]()
+<a href=""> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
