@@ -62,7 +62,7 @@ A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <
 ### [*Erebus' Elegy*](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
-<a href="https://github.com/jblukin/ErebusElegy"> <img width=640px height=360px src="" /> </a>
+<a href="https://github.com/jblukin/ErebusElegy"> <img width=640px height=360px src="images/ErebusElegy_Opt.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
