@@ -12,7 +12,7 @@ Hi, I'm Jonah Lukin. A game developer/software engineer passionate about all thi
 
 # 🌟 Major Projects
 
-### Conquering Ciros | [AVAILABLE ON STEAM NOW!!!](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
+### *Conquering Ciros* | [AVAILABLE ON STEAM NOW!!!](https://store.steampowered.com/app/2818530/Conquering_Ciros/)
 A Vampire Survivors-like game with a strategic twist. Use the power of crystals to reclaim your fallen kingdom!
 
 - Lead Engineer/Programmer
@@ -23,7 +23,7 @@ A Vampire Survivors-like game with a strategic twist. Use the power of crystals 
 
 ###### Made in Unity - Written in C#
 
-### [Computer Graphics Final](https://github.com/jblukin/Computer-Graphics-Final)
+### [*Computer Graphics Final*](https://github.com/jblukin/Computer-Graphics-Final)
 A graphics rendering project using basic techniques primarily coded using HLSL and the GPU
 
 - Fragment + Vertex Shaders
@@ -38,7 +38,7 @@ A graphics rendering project using basic techniques primarily coded using HLSL a
 
 # 🧩 Other Projects and Demos
 
-### [Billionaire](https://github.com/jblukin/B453-LectureProject)
+### [*Billionaire*](https://github.com/jblukin/B453-LectureProject)
 A tower defense game developed to improve skills for common game development topics
 
 - Singletons
@@ -52,37 +52,49 @@ A tower defense game developed to improve skills for common game development top
 
 ###### Made in Unity - Written in C#
 
-### [Port-a-Project](https://github.com/jblukin/Port-a-Project-B453/tree/main)
+### [*Port-a-Project*](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
 <a href="https://github.com/jblukin/Port-a-Project-B453/tree/main"> <img width=640px height=360px src="images/Duality_Port_Opt.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
-### [Erebus' Elegy](https://github.com/jblukin/ErebusElegy)
+### [*Erebus' Elegy*](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
 <a href="https://github.com/jblukin/ErebusElegy"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Unity - Written in C#
 
-### [Poison Profiteer](https://github.com/jblukin/C220-Final-Project-Poison)
+### [*Poison Profiteer*](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
 <a href="https://github.com/jblukin/C220-Final-Project-Poison"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
-### [Juicy Match-3](https://github.com/jblukin/03-Juicy-Match-3)
+### [*Juicy Match-3*](https://github.com/jblukin/03-Juicy-Match-3)
 A small match-3 game focusing on techniques to add "juice" to games <br />
 
 <a href="https://github.com/jblukin/03-Juicy-Match-3"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
 
-### [FPS Maze](https://github.com/jblukin/05-FPS-Maze)
+### [*FPS Maze*](https://github.com/jblukin/05-FPS-Maze)
 A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
 <a href="https://github.com/jblukin/05-FPS-Maze"> <img width=640px height=360px src="" /> </a>
 
 ###### Made in Godot 3 - Written in GDScript
+
+<!-- PROJECT TEMPLATE -->
+<!--
+
+### [*NAME OF PROJECT*](LINK TO REPOSITORY)
+SHORT DESCRIPTION <br />
+
+<a href="LINK TO REPOSITORY"> <img width=640px height=360px src="GIF SOURCE PATH" /> </a>
+
+###### Made in GAME ENGINE - Written in CODE LANGAUGE
+
+-->
