@@ -87,7 +87,7 @@ A small match-3 game focusing on techniques to add "juice" to games <br />
 
 ###### Made in Godot 3 - Written in GDScript
 
-### [*NAME OF PROJECT*](https://github.com/jblukin/04-2D-Platformer)
+### [*2D Platformer*](https://github.com/jblukin/04-2D-Platformer)
 A short 2D Platformer demo game with basic platforming mechanics <br />
 
 <a href="https://github.com/jblukin/04-2D-Platformer"> <img width=640px height=360px src="GIF SOURCE PATH" /> </a>
