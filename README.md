@@ -87,13 +87,6 @@ A small match-3 game focusing on techniques to add "juice" to games <br />
 
 ###### Made in Godot 3 - Written in GDScript
 
-### [*2D Platformer*](https://github.com/jblukin/04-2D-Platformer)
-A short 2D Platformer demo game with basic platforming mechanics <br />
-
-<a href="https://github.com/jblukin/04-2D-Platformer"> <img width=640px height=360px src="GIF SOURCE PATH" /> </a>
-
-###### Made in Godot 3 - Written in GDScript
-
 ### [*FPS Maze*](https://github.com/jblukin/05-FPS-Maze)
 A small fps maze demo with obstacles, enemies, and weapon pick-ups <br />
 
