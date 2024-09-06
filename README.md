@@ -19,7 +19,7 @@ A Vampire Survivors-like game with a strategic twist. Use the power of crystals 
 - Systems/UI Engineer/Programmer
 - Lead UI/UX Designer
 
-<a href="https://store.steampowered.com/app/2818530/Conquering_Ciros/" target="_blank" rel="Conquering Ciros Gameplay"> <img width=640px height=360px src="images/Ciros_Gameplay_PrimaryClipOptimized.gif" /> </a>
+<a href="https://store.steampowered.com/app/2818530/Conquering_Ciros/" target="blank" rel="Conquering Ciros Gameplay"> <img width=640px height=360px src="images/Ciros_Gameplay_PrimaryClipOptimized.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
