@@ -55,7 +55,7 @@ A tower defense game developed to improve skills for common game development top
 ### [Port-a-Project](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
-<a href=""> <img width=640px height=360px src="" /> </a>
+<a href=""> <img width=640px height=360px src="images/Duality_Port_Opt.gif" /> </a>
 
 ###### Made in Unity - Written in C#
 
