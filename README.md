@@ -52,6 +52,13 @@ A tower defense game developed to improve skills for common game development top
 
 ###### Made in Unity - Written in C#
 
+### [*GPU Spline Renderer*](https://github.com/jblukin/B481jlukin/tree/main/problem-sets/ps03/Problem-Set-03-jlukin)
+A graphics rendering project using the GPU to generate and render a spline as one of the 3 main types (Bezier, Catmull-Rom, and B-Splines) <br />
+
+<a href="https://github.com/jblukin/B481jlukin/tree/main/problem-sets/ps03/Problem-Set-03-jlukin"> <img width=640px height=360px src="images/GPU_Spline_Renderer.gif" /> </a>
+
+###### Made in Unity - Written in HLSL (and C#)
+
 ### [*Port-a-Project*](https://github.com/jblukin/Port-a-Project-B453/tree/main)
 A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <br />
 
