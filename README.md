@@ -73,6 +73,13 @@ A prototype of a 3D horde survival game where strategic movement is key to victo
 
 ###### Made in Unity - Written in C#
 
+### [*3D Unity Tutorial Project*](https://github.com/jblukin/C292-Fall2021/tree/master/3D%20Tutorial)
+An introductory project to 3D in Unity including dialogue, basic movement, lighting, and other basic gameplay systems <br />
+
+<a href="https://github.com/jblukin/C292-Fall2021/tree/master/3D%20Tutorial"> <img width=640px height=360px src="images/Simple_3D_Tutorial.gif" /> </a>
+
+###### Made in Unity - Written in C#
+
 ### [*Poison Profiteer*](https://github.com/jblukin/C220-Final-Project-Poison)
 A small idle game about selling types of poisons <br />
 
