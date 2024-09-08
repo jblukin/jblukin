@@ -66,6 +66,13 @@ A CC0 game jam beat'em up game found on Itch.io ported from GameMaker to Unity <
 
 ###### Made in Unity - Written in C#
 
+### [*Pull-it Puzzles*](https://github.com/jblukin/C292-Fall2021/tree/master/Midterm%20Project)
+A small 2D Puzzle Platform designed and programmed entirely by me <br />
+
+<a href="https://github.com/jblukin/C292-Fall2021/tree/master/Midterm%20Project"> <img width=640px height=360px src="images/Pull-it_Puzzles_Level_LONG.gif" /> </a>
+
+###### Made in Unity - Written in C#
+
 ### [*Erebus' Elegy*](https://github.com/jblukin/ErebusElegy)
 A prototype of a 3D horde survival game where strategic movement is key to victory <br />
 
